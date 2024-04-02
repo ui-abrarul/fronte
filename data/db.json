@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "userId": 11,
+      "id": "1",
+      "title": "ad"
+    },
+    {
+      "userId": 1,
+      "id": "2",
+      "title": "delectus aut autem"
+    },
+    {
+      "id": "3",
+      "userId": 1,
+      "title": "aman aut autem"
+    },
+    {
+      "id": "0.817874584102352",
+      "title": "kghk"
+    }
+  ]
+}
