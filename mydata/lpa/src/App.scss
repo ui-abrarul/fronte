@@ -1,0 +1,7 @@
+// Define a variable
+$primary-color: blue;
+
+// Use the variable
+body {
+  background-color: $primary-color;
+}
